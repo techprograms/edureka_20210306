@@ -1,1 +1,2 @@
 This file added from local repository
+New line added in local workspace
